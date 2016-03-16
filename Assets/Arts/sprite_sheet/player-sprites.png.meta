@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 4fea084f46b354c1385398f4baf19e13
+timeCreated: 1456274835
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player-sprites_0
+    21300002: player-sprites_1
+    21300004: player-sprites_2
+    21300006: player-sprites_3
+    21300008: player-sprites_4
+    21300010: player-sprites_5
+    21300012: player-sprites_6
+    21300014: player-sprites_7
+    21300016: player-sprites_8
+    21300018: player-sprites_9
+    21300020: player-sprites_10
+    21300022: player-sprites_11
+    21300024: player-sprites_12
+    21300026: player-sprites_13
+    21300028: player-sprites_14
+    21300030: player-sprites_15
+    21300032: player-sprites_16
+    21300034: player-sprites_17
+    21300036: player-sprites_18
+    21300038: player-sprites_19
+    21300040: player-sprites_20
+    21300042: player-sprites_21
+    21300044: player-sprites_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player-sprites_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 35}
+        - {x: -29, y: 16}
+        - {x: -30, y: 10}
+        - {x: -30, y: -34}
+        - {x: -27, y: -35}
+        - {x: 25, y: -35}
+        - {x: 30, y: -21}
+        - {x: 30, y: 30}
+        - {x: 28, y: 35}
+    - name: player-sprites_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 176
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 35}
+        - {x: -10.5, y: 35}
+        - {x: -26.5, y: 26}
+        - {x: -27.5, y: 23}
+        - {x: -27.5, y: -35}
+        - {x: 21.5, y: -35}
+        - {x: 27.5, y: -19}
+        - {x: 27.5, y: 9}
+        - {x: 25.5, y: 31}
+    - name: player-sprites_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 176
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 35}
+        - {x: -27.5, y: 26}
+        - {x: -27.5, y: -35}
+        - {x: 22.5, y: -35}
+        - {x: 27.5, y: -33}
+        - {x: 27.5, y: 17}
+        - {x: 25.5, y: 31}
+        - {x: 21.5, y: 35}
+    - name: player-sprites_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 176
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 31}
+        - {x: 21.5, y: 35}
+        - {x: -9.5, y: 35}
+        - {x: -14.5, y: 30}
+        - {x: -18.5, y: 23}
+        - {x: -27.5, y: 17}
+        - {x: -27.5, y: -24}
+        - {x: -12.5, y: -35}
+        - {x: 19.5, y: -35}
+        - {x: 24.5, y: -25}
+        - {x: 27.5, y: -18}
+        - {x: 27.5, y: 9}
+    - name: player-sprites_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_10
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_11
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 176
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35}
+        - {x: -21, y: 34}
+        - {x: -30, y: 18}
+        - {x: -30, y: -32}
+        - {x: -19, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: 2}
+        - {x: 22, y: 35}
+    - name: player-sprites_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 35}
+        - {x: -12.5, y: 35}
+        - {x: -20.5, y: 33}
+        - {x: -27.5, y: 18}
+        - {x: -27.5, y: -22}
+        - {x: -14.5, y: -35}
+        - {x: 27.5, y: -35}
+        - {x: 27.5, y: 22}
+        - {x: 25.5, y: 31}
+    - name: player-sprites_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 96
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 32.5}
+        - {x: -30, y: 18.5}
+        - {x: -30, y: -29.5}
+        - {x: -25, y: -32.5}
+        - {x: 29, y: -32.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: 5.5}
+        - {x: 22, y: 32.5}
+    - name: player-sprites_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 96
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 35}
+        - {x: -27.5, y: 20}
+        - {x: -27.5, y: -34}
+        - {x: -25.5, y: -35}
+        - {x: 25.5, y: -35}
+        - {x: 27.5, y: -33}
+        - {x: 27.5, y: 35}
+    - name: player-sprites_18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 96
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 37.5}
+        - {x: -25, y: 25.5}
+        - {x: -25, y: -32.5}
+        - {x: -9, y: -37.5}
+        - {x: 17, y: -37.5}
+        - {x: 25, y: -32.5}
+        - {x: 25, y: 36.5}
+        - {x: 23, y: 37.5}
+    - name: player-sprites_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 96
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 35}
+        - {x: -27.5, y: 31}
+        - {x: -27.5, y: -24}
+        - {x: -23.5, y: -35}
+        - {x: 27.5, y: -35}
+        - {x: 27.5, y: 35}
+    - name: player-sprites_20
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 96
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 32.5}
+        - {x: -18, y: 32.5}
+        - {x: -23, y: 30.5}
+        - {x: -30, y: 15.5}
+        - {x: -30, y: -30.5}
+        - {x: -24, y: -32.5}
+        - {x: 26, y: -32.5}
+        - {x: 30, y: -29.5}
+        - {x: 30, y: 28.5}
+    - name: player-sprites_21
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 96
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 35}
+        - {x: -27.5, y: 20}
+        - {x: -27.5, y: -34}
+        - {x: -25.5, y: -35}
+        - {x: 25.5, y: -35}
+        - {x: 27.5, y: -33}
+        - {x: 27.5, y: 35}
+    - name: player-sprites_22
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 96
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 37.5}
+        - {x: -25, y: 25.5}
+        - {x: -25, y: -32.5}
+        - {x: -9, y: -37.5}
+        - {x: 17, y: -37.5}
+        - {x: 25, y: -32.5}
+        - {x: 25, y: 36.5}
+        - {x: 23, y: 37.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
